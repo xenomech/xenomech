@@ -14,6 +14,8 @@
 
 - ✨ Fun fact : If it works, don't touch it! </br>
 
+_"If I have seen further, it is by standing upon the shoulders of giants" - Isaac Newton_
+
 ![alt-text](https://github.com/xenomech/xenomech/blob/main/data/logo.gif?raw=true)
 
 <p>👨‍💻 I like to work with :</p>
