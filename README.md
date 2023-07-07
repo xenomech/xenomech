@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 👨‍💻 All of my projects are available at [https://justgokul.dev](https://justgokul.dev)
+- 👨‍💻 All of my projects are available at [justgokul.dev](https://justgokul.dev)
 
 - 📝 I regularly write articles on [justgokul.dev](https://justgokul.dev)
 
