@@ -140,11 +140,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 min           ██████████████▓░░░░░░░░░░   59.14 %
-HTML         0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-JavaScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-MDX          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
