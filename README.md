@@ -88,14 +88,6 @@
         height="24"
       />
     </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-        alt="redux"
-        width="24"
-        height="24"
-      />
-    </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
