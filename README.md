@@ -3,15 +3,15 @@
 <h3 align="center">Software Engineer</h3>
 
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning
 
 - 👨‍💻 All of my projects are available at [justgokul.dev](https://justgokul.dev)
 
-- 📝 I regularly write articles on [justgokul.dev](https://justgokul.dev)
+- 📝 I write articles on [justgokul.dev](https://justgokul.dev)
 
 - 💬 Ask me about **react and next.js**
 
-- 📫 How to reach me: [Twitter](https://twitter.com/justgokuldotdev) / [Mail](mailto:gokulsmenon227@gmail.com)
+- 📫 Reach me @ [Twitter](https://twitter.com/justgokuldotdev) / [Mail](mailto:gokulsmenon227@gmail.com)
 
 
 <details>
