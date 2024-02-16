@@ -124,11 +124,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-Bash                       28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-TypeScript                 27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-Nginx configuration file   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Docker                     23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+TypeScript                 27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+Nginx configuration file   23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+Docker                     23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+Bash                       17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+JavaScript                 11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
 ```
 
 <!--END_SECTION:waka-->
