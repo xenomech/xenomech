@@ -124,11 +124,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        5 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.18 %
-HTML              4 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
-Python            3 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-JavaScript        3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-Java Properties   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+TypeScript        7 hrs 53 mins   ████████████░░░░░░░░░░░░░   47.96 %
+Python            2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+JavaScript        2 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
+HTML              1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Groovy            50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
