@@ -124,9 +124,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 min                 ██████████████████▒░░░░░░   73.00 %
-Go           0 secs                █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-Python       0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+TypeScript   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
